@@ -28,6 +28,8 @@ Demonstrate your understanding of this Sprint's concepts by answering the follow
 - [ ]  Explain benefit(s) using `client-side routing`?
 
 > Answer:
+Client side routing allows you to build an app that only updates the part of the dom that you need it to. It allows you to create website that behave more like a native app. 
+you can also reuse DOM elements.
 
 ## Project Set Up
 
